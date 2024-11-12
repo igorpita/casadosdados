@@ -1,0 +1,89 @@
+[
+    {
+    "id": 
+    1,
+    "combinedOutput": 
+    "FBI Investiga Roubo de $30 Milhões em Los Angeles: Detalhes Revelados\nDescubra os detalhes impactantes do maior roubo em Los Angeles.\nEste artigo é crucial pois relata um evento significativo que pode impactar a segurança de instituições financeiras.\nO FBI e o Departamento de Polícia de Los Angeles estão investigando um roubo de até $30 milhões de um depósito de dinheiro no Vale de San Fernando., O furto ocorreu na noite de Domingo de Páscoa em uma instalação não identificada em Sylmar, onde o dinheiro de empresas da região é manuseado., O LAPD e o FBI estão colaborando na investigação, embora detalhes adicionais não tenham sido divulgados., Os ladrões acessaram o prédio e o cofre sem disparar os alarmes, sugerindo a atuação de um grupo sofisticado com conhecimento interno., A instalação invadida era operada pela empresa de segurança privada GardaWorld., Este roubo se torna o maior na história de Los Angeles, superando o roubo de $18,9 milhões da Dunbar Armored em 1997.\nFique atento às atualizações sobre este caso alarmante que pode moldar a segurança em Los Angeles."
+    }
+    ]
+
+    [
+        {
+          "prompt": "Eu tenho uma história para a qual preciso gerar prompts para geração de imagens com IA. Cada prompt deve ser projetado como uma ilustração dinâmica e vívida de quadrinhos. Os prompts devem incluir uma descrição geral, ações dos personagens, aparências dos personagens e o cenário/fundo, adaptados a cada sentença da história.\n\nPor favor, formate os resultados como um objeto JSON contendo um array chamado \"pairs\". Cada objeto dentro do array deve ter duas chaves: \"original\", com a sentença original da história, e \"aiImagePrompts\", que contém um array de três strings. Cada string deve ser um prompt detalhado para gerar uma imagem no estilo de quadrinhos, focando no conteúdo narrativo da sentença correspondente.\n\nDiretrizes para os prompts:\n\nDeclaração de Estilo de Quadrinhos: Comece cada prompt com \"Crie uma ilustração dinâmica e vívida de quadrinhos de...\" Descrição dos Personagens e Ações: Descreva claramente os personagens e suas ações conforme retratados na cena. Cenário/Fundo: Inclua detalhes do ambiente ou fundo onde a ação ocorre. Humor e Tema: Reflita o humor e os elementos temáticos da sentença nos detalhes da ilustração. Elementos Visuais: Incorpore elementos visuais específicos que devem ser destacados, como tecnologia, emoções específicas ou características ambientais únicas. O objetivo é receber prompts criativos e envolventes que inspirem ilustrações detalhadas e vivas, encapsulando a essência da história através da lente da arte dos quadrinhos.\n\nAqui está a história que quero usar:\n\n  FBI Investiga Roubo de $30 Milhões em Los Angeles: Detalhes Revelados\nDescubra os detalhes impactantes do maior roubo em Los Angeles.\nEste artigo é crucial pois relata um evento significativo que pode impactar a segurança de instituições financeiras.\nO FBI e o Departamento de Polícia de Los Angeles estão investigando um roubo de até $30 milhões de um depósito de dinheiro no Vale de San Fernando., O furto ocorreu na noite de Domingo de Páscoa em uma instalação não identificada em Sylmar, onde o dinheiro de empresas da região é manuseado., O LAPD e o FBI estão colaborando na investigação, embora detalhes adicionais não tenham sido divulgados., Os ladrões acessaram o prédio e o cofre sem disparar os alarmes, sugerindo a atuação de um grupo sofisticado com conhecimento interno., A instalação invadida era operada pela empresa de segurança privada GardaWorld., Este roubo se torna o maior na história de Los Angeles, superando o roubo de $18,9 milhões da Dunbar Armored em 1997.\nFique atento às atualizações sobre este caso alarmante que pode moldar a segurança em Los Angeles."
+        }
+      ]
+
+
+      [
+        {
+          "id": 1,
+          "order": "1.00000000000000000000",
+          "Tipo de História": "Notícias Comic",
+          "Prompt": "Leia o artigo abaixo.\n\nVocê é um repórter de notícias de tecnologia.\n\nVamos criar uma revisão factual de 200 palavras do artigo.\n\nVou enviar essa narração para um gerador de voz de IA que será usado sobre imagens.\n\nPrimeiro, crie um título de 10 palavras.\n\nSegundo, crie uma introdução de uma única frase que atraia entusiastas de tecnologia.\n\nDepois, escreva uma frase explicando por que este artigo é importante.\n\nEm seguida, fale sobre os fatos do artigo.\n\nFinalize dizendo ao leitor para tomar uma ação para aproveitar as notícias compartilhadas no artigo.",
+          "Cenas Prompts JSON": "Eu tenho uma história para a qual preciso gerar prompts para geração de imagens com IA. Cada prompt deve ser projetado como uma ilustração dinâmica e vívida de quadrinhos. Os prompts devem incluir uma descrição geral, ações dos personagens, aparências dos personagens e o cenário/fundo, adaptados a cada sentença da história.\n\nPor favor, formate os resultados como um objeto JSON contendo um array chamado \"pairs\". Cada objeto dentro do array deve ter duas chaves: \"original\", com a sentença original da história, e \"aiImagePrompts\", que contém um array de três strings. Cada string deve ser um prompt detalhado para gerar uma imagem no estilo de quadrinhos, focando no conteúdo narrativo da sentença correspondente.\n\nDiretrizes para os prompts:\n\nDeclaração de Estilo de Quadrinhos: Comece cada prompt com \"Crie uma ilustração dinâmica e vívida de quadrinhos de...\" Descrição dos Personagens e Ações: Descreva claramente os personagens e suas ações conforme retratados na cena. Cenário/Fundo: Inclua detalhes do ambiente ou fundo onde a ação ocorre. Humor e Tema: Reflita o humor e os elementos temáticos da sentença nos detalhes da ilustração. Elementos Visuais: Incorpore elementos visuais específicos que devem ser destacados, como tecnologia, emoções específicas ou características ambientais únicas. O objetivo é receber prompts criativos e envolventes que inspirem ilustrações detalhadas e vivas, encapsulando a essência da história através da lente da arte dos quadrinhos.\n\nAqui está a história que quero usar:",
+          "Largura Output": "1920",
+          "Altura Imagem": "576",
+          "Largura Imagem": "1024",
+          "Altura Output": "1080",
+          "Model ID": "aa77f04e-3eec-4034-9c07-d0f619684628",
+          "Histórias": [
+            {
+              "id": 1,
+              "value": "1"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "order": "1.00000000000000000000",
+          "ID História": 1,
+          "Fonte": "O FBI e o Departamento de Polícia de Los Angeles estão investigando um dos maiores roubos de dinheiro na história da cidade, após o furto de até $30 milhões de um depósito de dinheiro no Vale de San Fernando, informou uma fonte da aplicação da lei familiarizada com a investigação à CNN na quinta-feira.\n\nO roubo aconteceu na noite do Domingo de Páscoa em uma instalação não identificada em Sylmar, um bairro suburbano no Vale de San Fernando, onde dinheiro de empresas de toda a região é manuseado e armazenado, disse a fonte.\n\nO Los Angeles Times foi o primeiro a reportar o incidente.\n\nO escritório do FBI em Los Angeles disse à CNN na quinta-feira que estão investigando \"um grande roubo\" no Vale de San Fernando e estão trabalhando em conjunto com o LAPD, mas não compartilharam mais detalhes citando uma investigação em andamento. O LAPD encaminhou todos os comentários ao FBI.\n\nOs ladrões conseguiram acessar o prédio e entrar no cofre sem disparar os alarmes, e os investigadores acreditam que se trata de um grupo sofisticado com base em sua habilidade de evitar a detecção, disse a fonte.\n\nUma área de foco para a investigação é se o grupo tinha conhecimento interno da instalação, disse a fonte, que acrescentou que o roubo foi descoberto na segunda-feira.\n\nA instalação era operada pela empresa de segurança privada GardaWorld, informou a fonte. A CNN entrou em contato com a empresa para comentar sobre o incidente.\n\nSegundo o Los Angeles Times, anteriormente o maior roubo de dinheiro na cidade ocorreu em 12 de setembro de 1997, quando $18,9 milhões foram roubados do antigo local da Dunbar Armored Inc. na Rua Mateo. Os suspeitos foram eventualmente capturados.",
+          "Pronto para ir": true,
+          "Video Completo": "",
+          "Criado em": "2024-11-05T22:36:49.750961Z",
+          "Última modificação": "2024-11-11T14:28:37.841233Z",
+          "Tipos de História": [
+            {
+              "id": 1,
+              "value": "Notícias Comic"
+            }
+          ],
+          "Prompt": [
+            {
+              "id": 1,
+              "value": "Leia o artigo abaixo.\n\nVocê é um repórter de notícias de tecnologia.\n\nVamos criar uma revisão factual de 200 palavras do artigo.\n\nVou enviar essa narração para um gerador de voz de IA que será usado sobre imagens.\n\nPrimeiro, crie um título de 10 palavras.\n\nSegundo, crie uma introdução de uma única frase que atraia entusiastas de tecnologia.\n\nDepois, escreva uma frase explicando por que este artigo é importante.\n\nEm seguida, fale sobre os fatos do artigo.\n\nFinalize dizendo ao leitor para tomar uma ação para aproveitar as notícias compartilhadas no artigo."
+            }
+          ],
+          "Largura Output": [
+            {
+              "id": 1,
+              "value": "1920"
+            }
+          ],
+          "Altura Output": [
+            {
+              "id": 1,
+              "value": "1080"
+            }
+          ],
+          "Largura Imagem": [
+            {
+              "id": 1,
+              "value": "1024"
+            }
+          ],
+          "Altura Imagem": [
+            {
+              "id": 1,
+              "value": "576"
+            }
+          ],
+          "Cenas Prompts JSON": [
+            {
+              "id": 1,
+              "value": "Eu tenho uma história para a qual preciso gerar prompts para geração de imagens com IA. Cada prompt deve ser projetado como uma ilustração dinâmica e vívida de quadrinhos. Os prompts devem incluir uma descrição geral, ações dos personagens, aparências dos personagens e o cenário/fundo, adaptados a cada sentença da história.\n\nPor favor, formate os resultados como um objeto JSON contendo um array chamado \"pairs\". Cada objeto dentro do array deve ter duas chaves: \"original\", com a sentença original da história, e \"aiImagePrompts\", que contém um array de três strings. Cada string deve ser um prompt detalhado para gerar uma imagem no estilo de quadrinhos, focando no conteúdo narrativo da sentença correspondente.\n\nDiretrizes para os prompts:\n\nDeclaração de Estilo de Quadrinhos: Comece cada prompt com \"Crie uma ilustração dinâmica e vívida de quadrinhos de...\" Descrição dos Personagens e Ações: Descreva claramente os personagens e suas ações conforme retratados na cena. Cenário/Fundo: Inclua detalhes do ambiente ou fundo onde a ação ocorre. Humor e Tema: Reflita o humor e os elementos temáticos da sentença nos detalhes da ilustração. Elementos Visuais: Incorpore elementos visuais específicos que devem ser destacados, como tecnologia, emoções específicas ou características ambientais únicas. O objetivo é receber prompts criativos e envolventes que inspirem ilustrações detalhadas e vivas, encapsulando a essência da história através da lente da arte dos quadrinhos.\n\nAqui está a história que quero usar:"
+            }
+          ],
+          "História": "FBI Investiga Roubo de $30 Milhões em Los Angeles: Detalhes Revelados\nDescubra os detalhes impactantes do maior roubo em Los Angeles.\nEste artigo é crucial pois relata um evento significativo que pode impactar a segurança de instituições financeiras.\nO FBI e o Departamento de Polícia de Los Angeles estão investigando um roubo de até $30 milhões de um depósito de dinheiro no Vale de San Fernando., O furto ocorreu na noite de Domingo de Páscoa em uma instalação não identificada em Sylmar, onde o dinheiro de empresas da região é manuseado., O LAPD e o FBI estão colaborando na investigação, embora detalhes adicionais não tenham sido divulgados., Os ladrões acessaram o prédio e o cofre sem disparar os alarmes, sugerindo a atuação de um grupo sofisticado com conhecimento interno., A instalação invadida era operada pela empresa de segurança privada GardaWorld., Este roubo se torna o maior na história de Los Angeles, superando o roubo de $18,9 milhões da Dunbar Armored em 1997.\nFique atento às atualizações sobre este caso alarmante que pode moldar a segurança em Los Angeles."
+        }
+      ]
